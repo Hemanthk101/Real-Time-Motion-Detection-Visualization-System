@@ -30,10 +30,10 @@ A Python-based real-time motion detection system that captures video from a webc
 
 
 .
-├── motion_detector.py # Motion detection and data logging
-├── plotting.py # Visualization using Bokeh
-├── Times.csv # Generated output (motion logs)
-├── Graph1.html # Generated visualization
+─ motion_detector.py # Motion detection and data logging
+─ plotting.py # Visualization using Bokeh
+─ Times.csv # Generated output (motion logs)
+─ Graph1.html # Generated visualization
 
 
 ---
