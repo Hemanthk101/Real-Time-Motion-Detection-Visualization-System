@@ -51,7 +51,7 @@ This project demonstrates:
 - plotting.py
 - Times.csv
 - Graph1.html
-- 
+
 ---
 
 ## ⚙️ How It Works
