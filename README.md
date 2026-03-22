@@ -54,8 +54,6 @@ This project demonstrates:
 ├── plotting.py # Visualization module (Bokeh)
 ├── Times.csv # Motion timestamps output
 └── Graph1.html # Interactive visualization output
-
-
 ---
 
 ## ⚙️ How It Works
