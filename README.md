@@ -47,13 +47,11 @@ This project demonstrates:
 ---
 
 ## 📂 Project Structure
-
-
 .
-├── motion_detector.py # Core motion detection module
-├── plotting.py # Visualization module (Bokeh)
-├── Times.csv # Motion timestamps output
-└── Graph1.html # Interactive visualization output
+├── motion_detector.py
+├── plotting.py
+├── Times.csv
+└── Graph1.html
 ---
 
 ## ⚙️ How It Works
