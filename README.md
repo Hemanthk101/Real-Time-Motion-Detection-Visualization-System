@@ -47,13 +47,11 @@ This project demonstrates:
 ---
 
 ## 📂 Project Structure
-.
-
-├── motion_detector.py
-├── plotting.py
-├── Times.csv
-└── Graph1.html
-
+- motion_detector.py
+- plotting.py
+- Times.csv
+- Graph1.html
+- 
 ---
 
 ## ⚙️ How It Works
